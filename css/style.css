@@ -88,8 +88,12 @@ footer ul > li:not(:last-child) {
 	width: 80px;
 	height: 60px;
 	position: absolute;
-	left: 20px;
-	top: 200px;
+	left: calc(25% - 50px);
+	top: 230px;
+}
+
+.carousel-indicators {
+	margin-bottom: -23px;
 }
 
 .action-menu {
