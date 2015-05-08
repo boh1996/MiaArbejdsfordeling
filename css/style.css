@@ -1,0 +1,144 @@
+.gallery-container {
+	background-color: black;
+	height: 200px;
+	border-bottom-right-radius: 15px;
+	border-bottom-left-radius: 15px;
+}
+footer {
+	position: relative;
+	bottom: 0px;
+	width: 100%;
+}
+footer .footer-container {
+	height: 50px;
+	background-color: blue;
+	border-top-right-radius: 15px;
+	border-top-left-radius: 15px;
+}
+footer ul {
+	margin-top: 16px;
+}
+footer ul > li {
+	display: inline;
+	list-style-type: none;
+	color: white;
+	vertical-align: center;
+	text-align: center;
+}
+footer a {
+	color: white;
+}
+footer ul > li:not(:last-child) {
+	padding-right: 15px;
+}
+.cloud {
+	width: 104px;
+	height: 59px;
+	display: block;
+	background-size: cover;
+	background-image: url("../img/cloud-md.png");
+	cursor: pointer;
+}
+.cloud span {
+	text-align: center;
+	width: 100%;
+	display: inline-block;
+	margin-top: 18px;
+}
+.cloud:hover {
+	background-image: url("../img/cloud-md-hover.png");
+	font-weight: bold;
+}
+.cloud:active,
+.cloud.active {
+	background-image: url("../img/cloud-md-active.png");
+	font-weight: bold;
+}
+.clouds {
+	clear: both;
+	width: 332px;
+	overflow: auto;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 10px;
+}
+.clouds i {
+	float: left;
+}
+.clouds .cloud:not(:last-child) {
+	margin-right: 10px;
+}
+/*# sourceMappingURL=style.css.map */
+
+.gallery-container {
+	padding: 0px !important;
+}
+
+.gallery-container img {
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+}
+
+.back-button {
+	background: url("../img/red-back-arrow.png") no-repeat;
+	background-size: contain;
+
+	cursor: pointer;
+
+	width: 80px;
+	height: 60px;
+	position: absolute;
+	left: 20px;
+	top: 200px;
+}
+
+.action-menu {
+	margin-top: 30px;
+	height: 40px;
+	background-color: #eee;
+	width: 100%;
+	border-radius: 20px;
+}
+
+.action-menu:after, .action-menu:before {
+	bottom: 40px;
+	left: 50%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+}
+
+.action-menu:after {
+	border-color: white;
+	border-bottom-color: #eee;
+	border-width: 15px;
+	margin-left: -15px;
+}
+
+
+.action-menu ul {
+	margin-left: auto;
+	margin-right: auto;
+	display: inline-block;
+	padding-left: calc(25% - 30px);
+	padding-top: 10px;
+	border-radius: 20px;
+}
+
+.action-menu li.active {
+	font-weight: bold;
+}
+
+.action-menu li {
+	color: black;
+	text-align: center;
+
+	display: inline;
+	list-style-type: none;
+	padding-right: 20px;
+
+	cursor: pointer;
+}

@@ -1,0 +1,1824 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"borer-top",
+				"border-top-left-radius"
+			],
+			[
+				"border-top",
+				"border-top-right-radius"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"border-bo",
+				"border-bottom-left-radius"
+			],
+			[
+				"border-bot",
+				"border-bottom-right-radius"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"sort",
+				"sort_direction"
+			],
+			[
+				"base",
+				"base_price"
+			],
+			[
+				"so",
+				"sort_order"
+			],
+			[
+				"teac",
+				"teacher_id"
+			],
+			[
+				"fea",
+				"facebook_id"
+			],
+			[
+				"type",
+				"typeahead"
+			],
+			[
+				"dis",
+				"displayError"
+			],
+			[
+				"ins",
+				"instrment"
+			],
+			[
+				"profie",
+				"profile_url"
+			],
+			[
+				"last_",
+				"last_online_text"
+			],
+			[
+				"sear",
+				"search"
+			],
+			[
+				"loca",
+				"location"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"prof",
+				"profile_url"
+			],
+			[
+				"user_",
+				"user_control"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"face",
+				"facebook_id"
+			],
+			[
+				"instr",
+				"instruments"
+			],
+			[
+				"null",
+				"is_null"
+			],
+			[
+				"tea",
+				"teacher_locations"
+			],
+			[
+				"teacher",
+				"teacher_locations"
+			],
+			[
+				"is_in",
+				"is_integer"
+			],
+			[
+				"teacher_in",
+				"teacher_instruments"
+			],
+			[
+				"reus",
+				"results"
+			],
+			[
+				"teacher_insr",
+				"teacher_instruments_id"
+			],
+			[
+				"order",
+				"order_direction"
+			],
+			[
+				"is_n",
+				"is_null"
+			],
+			[
+				"last",
+				"last_online"
+			],
+			[
+				"mit",
+				"minutes"
+			],
+			[
+				"min",
+				"minutes"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"last_n",
+				"last_online"
+			],
+			[
+				"str_er",
+				"str_replace"
+			],
+			[
+				"locat",
+				"location"
+			],
+			[
+				"locatio",
+				"locations"
+			],
+			[
+				"tra",
+				"training_outside"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"social",
+				"social_icons"
+			],
+			[
+				"forea",
+				"foreach	foreach …"
+			],
+			[
+				"load_",
+				"load_genres"
+			],
+			[
+				"num",
+				"num_rows"
+			],
+			[
+				"teach",
+				"teacher_locations"
+			],
+			[
+				"zip",
+				"zip_codes"
+			],
+			[
+				"instrum",
+				"instruments"
+			],
+			[
+				"pers",
+				"person_city"
+			],
+			[
+				"add",
+				"address"
+			],
+			[
+				"fce",
+				"facebook_id"
+			],
+			[
+				"stud",
+				"student"
+			],
+			[
+				"App",
+				"APPPATH"
+			],
+			[
+				"location",
+				"location_city"
+			],
+			[
+				"ex",
+				"experince"
+			],
+			[
+				"instru",
+				"instrument"
+			],
+			[
+				"per",
+				"person_city"
+			],
+			[
+				"vali",
+				"validator"
+			],
+			[
+				"info",
+				"infoCity"
+			],
+			[
+				"repeat",
+				"repeat-password"
+			],
+			[
+				"repe",
+				"repeat_password"
+			],
+			[
+				"instrume",
+				"instruments"
+			],
+			[
+				"tag",
+				"tagsuggest"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"mrag",
+				"margin-left"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"padi",
+				"padding-bottom"
+			],
+			[
+				"vert",
+				"vertical-align"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"this",
+				"thisRow"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"toke",
+				"token"
+			],
+			[
+				"token",
+				"token_object"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"border-b",
+				"border-bottom-left-radius"
+			],
+			[
+				"b",
+				"button	Tag"
+			],
+			[
+				"border-t",
+				"border-top-right-radius"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"registeR_rep",
+				"register_repeat_email"
+			],
+			[
+				"register",
+				"register_email"
+			],
+			[
+				"reme",
+				"remember_me"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"Key",
+				"keyCode"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"under",
+				"Undervisning"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"bootst",
+				"bootstrap-tagsinput"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"is_N",
+				"is_null"
+			],
+			[
+				"rgba",
+				"rgba()"
+			],
+			[
+				"login_",
+				"login_security"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"er",
+				"errors"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"bordre-bo",
+				"border-bottom-left-radius"
+			],
+			[
+				"tras",
+				"transition"
+			],
+			[
+				"is_lo",
+				"is_logged_in"
+			],
+			[
+				"user_i",
+				"user_image"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"htm",
+				"htmlspecialchars"
+			],
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"strip",
+				"strip_tags"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"str_re",
+				"str_replace"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "memory.html",
+			"settings":
+			{
+				"buffer_size": 4643,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/gamelogic.js",
+			"settings":
+			{
+				"buffer_size": 1530,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "less/style.less",
+			"settings":
+			{
+				"buffer_size": 1204,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/layout.css",
+			"settings":
+			{
+				"buffer_size": 7436,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 196.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"anaconda",
+				"Anaconda: Vagrant Init"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Git p",
+				"Git: Push"
+			],
+			[
+				"Gk",
+				"Git: Gitk"
+			],
+			[
+				"doc",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"git",
+				"Git: Gui"
+			],
+			[
+				"Package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Packgage",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 132.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/R/MiaArbejdsfordeling",
+		"/R/MiaArbejdsfordeling/css",
+		"/R/MiaArbejdsfordeling/js"
+	],
+	"file_history":
+	[
+		"/R/MiaArbejdsfordeling/index.html",
+		"/R/MiaArbejdsfordeling/css/base.css",
+		"/R/MiaArbejdsfordeling/js/memory.js",
+		"/R/MiaArbejdsfordeling/css/style.css",
+		"/R/Kommunikation-IT/less/variables.less",
+		"/R/Kommunikation-IT/font-awesome/less/icons.less",
+		"/R/Kommunikation-IT/font-awesome/less/path.less",
+		"/R/Kommunikation-IT/font-awesome/less/font-awesome.less",
+		"/R/Kommunikation-IT/font-awesome/less/core.less",
+		"/R/FindMusikundervisning.dk/application/views/forgot_password_view.php",
+		"/R/FindMusikundervisning.dk/assets/js/forgot.js",
+		"/R/FindMusikundervisning.dk/application/controllers/Forgot.php",
+		"/R/FindMusikundervisning.dk/application/views/templates/message_to_user_view.php",
+		"/R/FindMusikundervisning.dk/assets/css/search.css",
+		"/R/FindMusikundervisning.dk/application/libraries/User_control.php",
+		"/R/FindMusikundervisning.dk/application/controllers/Search.php",
+		"/R/FindMusikundervisning.dk/application/config/routes.php",
+		"/R/FindMusikundervisning.dk/application/models/Base_model.php",
+		"/R/FindMusikundervisning.dk/application/controllers/api/Api_forgot.php",
+		"/R/FindMusikundervisning.dk/application/models/User_model.php",
+		"/R/FindMusikundervisning.dk/application/models/Teacher_model.php",
+		"/R/FindMusikundervisning.dk/application/language/danish/app_lang.php",
+		"/R/FindMusikundervisning.dk/application/controllers/Profile.php",
+		"/R/FindMusikundervisning.dk/application/views/profile_teacher_view.php",
+		"/R/FindMusikundervisning.dk/application/language/danish/profile_lang.php",
+		"/R/FindMusikundervisning.dk/assets/js/teacher.js",
+		"/R/FindMusikundervisning.dk/assets/css/about.css",
+		"/R/FindMusikundervisning.dk/assets/css/style.css",
+		"/R/FindMusikundervisning.dk/assets/css/profile.css",
+		"/R/FindMusikundervisning.dk/application/controllers/api/Api_teacher.php",
+		"/R/FindMusikundervisning.dk/sftp-config.json",
+		"/R/FindMusikundervisning.dk/application/views/teacher_view.php",
+		"/R/FindMusikundervisning.dk/application/language/danish/teacher_lang.php",
+		"/C/Users/Bo/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+		"/R/FindMusikundervisning.dk/application/config/autoload.php",
+		"/R/FindMusikundervisning.dk/application/controllers/api/Api_register.php",
+		"/R/FindMusikundervisning.dk/application/libraries/auth/Login_security.php",
+		"/R/FindMusikundervisning.dk/application/models/Login_model.php",
+		"/R/FindMusikundervisning.dk/uploads/1.image",
+		"/R/FindMusikundervisning.dk/assets/css/teacher.css",
+		"/R/FindMusikundervisning.dk/assets/css/home.css",
+		"/R/FindMusikundervisning.dk/assets/js/login.js",
+		"/R/FindMusikundervisning.dk/teacher_view.old",
+		"/R/FindMusikundervisning.dk/application/controllers/Teacher.php",
+		"/R/FindMusikundervisning.dk/assets/css/jasny-bootstrap.css",
+		"/R/FindMusikundervisning.dk/application/views/home_view.php",
+		"/R/FindMusikundervisning.dk/application/views/search_view.php",
+		"/R/FindMusikundervisning.dk/application/controllers/Home.php",
+		"/R/FindMusikundervisning.dk/assets/css/contact.css",
+		"/R/FindMusikundervisning.dk/application/language/danish/home_lang.php",
+		"/R/FindMusikundervisning.dk/application/controllers/forgot.php",
+		"/R/FindMusikundervisning.dk/application/config/config.php",
+		"/R/FindMusikundervisning.dk/application/controllers/home.php",
+		"/R/TwitterAnalytics/v1/application/config/routes.php",
+		"/R/TwitterAnalytics/v1/application/core/MY_Router.php",
+		"/R/FindMusikundervisning.dk/assets/js/floating-labels-teacher.js",
+		"/R/FindMusikundervisning.dk/application/core/MY_Router.php",
+		"/R/TwitterAnalytics/v1/.htaccess",
+		"/R/FindMusikundervisning.dk/application/models/data_io_model.php",
+		"/R/FindMusikundervisning.dk/application/libraries/user_control.php",
+		"/R/FindMusikundervisning.dk/database.sql",
+		"/R/FindMusikundervisning.dk/assets/css/login.css",
+		"/R/FindMusikundervisning.dk/assets/bootstrap/less/custom.less",
+		"/R/FindMusikundervisning.dk/assets/css/floating-labels.css",
+		"/R/FindMusikundervisning.dk/assets/js/floating-labels.js",
+		"/R/FindMusikundervisning.dk/assets/js/messages_da.min.js",
+		"/R/FindMusikundervisning.dk/application/views/login_view.php",
+		"/R/FindMusikundervisning.dk/application/language/danish/login_lang.php",
+		"/R/FindMusikundervisning.dk/application/libraries/auth/login_security.php",
+		"/R/FindMusikundervisning.dk/application/controllers/api/api_forgot.php",
+		"/R/FindMusikundervisning.dk/assets/css/forgot.css",
+		"/R/FindMusikundervisning.dk/application/config/login.php",
+		"/R/FindMusikundervisning.dk/application/controllers/api/api_register.php",
+		"/R/FindMusikundervisning.dk/application/config/email.php",
+		"/R/FindMusikundervisning.dk/application/libraries/mustache.php",
+		"/R/TwitterAnalytics/v1/application/libraries/mustache.php",
+		"/R/FindMusikundervisning.dk/application/models/base_model.php",
+		"/R/FindMusikundervisning.dk/assets/css/slider.css",
+		"/R/FindMusikundervisning.dk/assets/js/slider.js",
+		"/R/FindMusikundervisning.dk/assets/css/lastonline.css",
+		"/R/FindMusikundervisning.dk/application/models/news_model.php",
+		"/R/FindMusikundervisning.dk/application/views/news_list_view.php",
+		"/R/FindMusikundervisning.dk/prototype/news_list.html",
+		"/R/FindMusikundervisning.dk/assets/js/search.js",
+		"/C/xampp/htdocs/twa/v1/system/core/Common.php",
+		"/R/TwitterAnalytics/v2/application/libraries/scraper.php",
+		"/R/TwitterAnalytics/v1/application/libraries/live_scraper.php",
+		"/R/TwitterAnalytics/v1/application/libraries/urls.php",
+		"/R/FindMusikundervisning.dk/application/controllers/api/api_zip.php",
+		"/R/FindMusikundervisning.dk/assets/css/messages.css",
+		"/R/FindMusikundervisning.dk/application/views/templates/nav_view.php",
+		"/R/FindMusikundervisning.dk/assets/js/i18n/defaults-da_DK.js",
+		"/R/FindMusikundervisning.dk/assets/js/i18n/defaults-en_US.js",
+		"/R/FindMusikundervisning.dk/application/models/login_model.php",
+		"/R/FindMusikundervisning.dk/application/controllers/Login.php",
+		"/R/FindMusikundervisning.dk/application/controllers/api/api_login.php",
+		"/R/FindMusikundervisning.dk/application/controllers/api/api_instruments.php",
+		"/R/FindMusikundervisning.dk/system/core/Log.php",
+		"/R/FindMusikundervisning.dk/application/libraries/REST_Controller.php",
+		"/R/FindMusikundervisning.dk/user_guide/general/requirements.html",
+		"/R/FindMusikundervisning.dk/application/libraries/api/API_Controller.php",
+		"/R/FindMusikundervisning.dk/assets/js/contact.js",
+		"/R/FindMusikundervisning.dk/application/views/layouts/messages.php",
+		"/R/FindMusikundervisning.dk/application/views/layouts/login.php",
+		"/R/FindMusikundervisning.dk/assets/bootstrap/node_modules/grunt-contrib-less/node_modules/less/appveyor.yml",
+		"/R/FindMusikundervisning.dk/application/views/layouts/default.php",
+		"/R/FindMusikundervisning.dk/assets/bootstrap/node_modules/grunt-contrib-less/node_modules/less/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/anyOf.json",
+		"/R/FindMusikundervisning.dk/application/views/contact_view.php",
+		"/R/FindMusikundervisning.dk/prototype/contact.html",
+		"/R/FindMusikundervisning.dk/application/controllers/Contact.php",
+		"/R/FindMusikundervisning.dk/assets/bootstrap/node_modules/grunt-saucelabs/test/mocha/lib/context.js",
+		"/R/FindMusikundervisning.dk/user_guide/tutorial/create_news_items.html",
+		"/R/FindMusikundervisning.dk/assets/bootstrap/node_modules/npm-shrinkwrap/node_modules/npm/doc/cli/npm-tag.md",
+		"/R/FindMusikundervisning.dk/assets/bootstrap/node_modules/npm-shrinkwrap/node_modules/npm/doc/cli/npm-test.md",
+		"/R/FindMusikundervisning.dk/assets/bootstrap/node_modules/npm-shrinkwrap/node_modules/npm/test/tap/config-builtin.js",
+		"/R/FindMusikundervisning.dk/assets/bootstrap/node_modules/grunt-contrib-connect/node_modules/connect/node_modules/body-parser/node_modules/iconv-lite/encodings/tables/eucjp.json",
+		"/R/FindMusikundervisning.dk/assets/bootstrap/grunt/configBridge.json",
+		"/R/FindMusikundervisning.dk/prototype/bootstrap/docs/robots.txt",
+		"/R/FindMusikundervisning.dk/assets/bootstrap/node_modules/grunt-html-validation/node_modules/request/node_modules/oauth-sign/test.js",
+		"/R/FindMusikundervisning.dk/prototype/login.html",
+		"/R/FindMusikundervisning.dk/assets/bootstrap/node_modules/grunt-jscs/node_modules/jscs/lib/rules/disallow-padding-newlines-in-blocks.js",
+		"/R/FindMusikundervisning.dk/application/controllers/Messages.php",
+		"/R/FindMusikundervisning.dk/assets/bootstrap/node_modules/grunt/node_modules/glob/examples/usr-local.js",
+		"/R/FindMusikundervisning.dk/assets/bootstrap/node_modules/grunt-contrib-watch/node_modules/tiny-lr-fork/bin/update-livereload",
+		"/R/FindMusikundervisning.dk/assets/bootstrap/node_modules/npm-shrinkwrap/node_modules/npm/node_modules/npm-registry-client/test/adduser-update.js",
+		"/R/FindMusikundervisning.dk/application/views/messages_view.php",
+		"/R/FindMusikundervisning.dk/application/config/user_agents.php",
+		"/R/FindMusikundervisning.dk/prototype/bootstrap/docs/_data/sass-team.yml"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"R:\\FindMusikundervisning.dk",
+			"R:\\TwitterAnalytics\\",
+			"R:\\TwitterAnalytics\\assets",
+			"R:\\translator\\assets",
+			"R:\\ComputerInfo/application/",
+			"R:\\ComputerInfo/application/libraries",
+			"R:\\IllutionBootstrap",
+			"R:\\Font-Awesome-More\\less",
+			"R:\\ComputerInfo\\application",
+			"C:\\Users\\Bo\\Desktop\\Hind\\xpak_hind",
+			"R:\\IllutionBootstrap\\bootstrap\\less",
+			"R:\\IllutionBootstrap\\bootstrap\\less,R:\\ComputerInfo\\application",
+			"R:\\IllutionBootstrap\\bootstrap\\less"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"span",
+			"portfolio",
+			"portfolio-modal",
+			"portfolio",
+			"portfoli",
+			"#team",
+			"team",
+			"#team",
+			".section-subheading",
+			"section h3.section-subheading",
+			"Services",
+			"services",
+			"location",
+			"instrument",
+			"<strong>Pris:</strong> 300kr for 60 min",
+			"user.",
+			"teacher_instruments",
+			"';'",
+			"instruments",
+			"$this->lang->line",
+			"($this->lang->line",
+			"$this->lang->line",
+			"traning_outside",
+			"locations",
+			"load_locations",
+			"get",
+			"$this->",
+			"instruments",
+			"teacher_instruments",
+			"instruments",
+			"genre",
+			"genres",
+			"teacher_id",
+			"&$",
+			"other_experience_description",
+			"stu",
+			"teacher_user_already_exists",
+			"login_model",
+			"j",
+			"location",
+			"teacher_create_success",
+			"teac",
+			"tae",
+			"teacher",
+			"login",
+			"forgot_password_error",
+			"other-education",
+			"tabindex",
+			"tagindex",
+			"instruments",
+			"strong",
+			"required : true,",
+			"tabindex=\"([0-9]*)\"",
+			" tabindex=\"11\"",
+			"tabindex=\"([0-9]*)\"",
+			"science",
+			"3year",
+			"140",
+			"max-",
+			"preview",
+			"thumbnail",
+			"img",
+			"fileinput",
+			"img",
+			" !important",
+			".required ",
+			"zip-studio",
+			"zip-city",
+			"zip-studio",
+			"mark",
+			"10px",
+			"15px",
+			"20px",
+			"margin",
+			"padding",
+			"140",
+			".search-result-container",
+			"cache",
+			"XCache",
+			"fmu",
+			"min",
+			"max",
+			"col-lg-6",
+			"12",
+			"<div class=\"row price-row price-primary-row\">\n										<div class=\"col-lg-4 col-lg-offset-2\">\n											<div class=\"form-group floating-label-form-group required\">\n												<label for=\"price\"><?= $this->lang->line(\"teacher_price\"); ?></label>\n												<input type=\"number\" required id=\"price\" name=\"price\" class=\"form-control\" placeholder=\"<?= $this->lang->line(\"teacher_choose_price\"); ?>\" min=\"0\">\n											</div>\n										</div>\n\n										<div class=\"col-lg-4\">\n											<div class=\"form-group floating-label-form-group required\">\n												<label for=\"minutes\"><?= $this->lang->line(\"teacher_minutes\"); ?></label>\n												<input type=\"number\" required id=\"minutes\" name=\"minutes\" class=\"form-control\" placeholder=\"<?= $this->lang->line(\"teacher_choose_minutes\"); ?>\" min=\"1\">\n											</div>\n										</div>\n\n										<div class=\"col-lg-2 price-action-row\">\n											<div class=\"price-action-container\">\n												<i class=\"fa fa-minus\"></i>\n												<i class=\"fa fa-plus\"></i>\n												<i title=\"<?= $this->lang->line(\"teacher_primary\"); ?>\" class=\"fa fa-certificate active\"></i>\n											</div>\n										</div>\n									</div>",
+			"col-lg-5",
+			"city",
+			":not(.error)",
+			"  ",
+			" col-sm-12",
+			"md",
+			" col-sm-12",
+			"custom",
+			"instruments",
+			" ",
+			"custom",
+			"right",
+			"email",
+			"if ( $(\"#email\").length < 1 ) {\n		// Error\n		return;\n	}",
+			"id=\"lo",
+			":after",
+			"padding-left: 3px;\n	content: \"*\";",
+			".required ",
+			"input",
+			"right",
+			"nav-tabs",
+			"</span>",
+			"<span class=\"label label-warning\">",
+			"6 pull-right",
+			"12",
+			"strong",
+			"profile-description-container",
+			"col-md-4",
+			"<br>",
+			"Pris",
+			"rootwizard",
+			"50",
+			".about-person-container",
+			".75",
+			"  ",
+			"3",
+			"details-row",
+			" col-md-3",
+			"30px",
+			"15px",
+			"23px",
+			"top",
+			"	border-top-right-radius: 23px;\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"news",
+			"#news",
+			"rx=\"10\" x=\"0\" y=\"332.36218\"",
+			"x=\"0\"",
+			"0",
+			"5",
+			"<g class=\"sprite\"",
+			"time()",
+			"	",
+			"\"init\":",
+			"init\"name\":",
+			"\"name\":",
+			"lalalalala",
+			"\"init\":",
+			"\"name\"",
+			"},",
+			"\" ,name",
+			"\" : \"",
+			"\\n{init: \"",
+			"\",}",
+			",name: \"",
+			"\\n",
+			"\\n\\r",
+			"\\n",
+			"",
+			"{/sup}",
+			"{sub}",
+			"",
+			"\",\\n\"",
+			"\"\\n\"",
+			"$1",
+			"",
+			"\"\"",
+			"",
+			"$this->_CI->config->item",
+			"$_SESSION[$this->config->item(\"user_id_session\")]",
+			"datatables_translations",
+			"\"<?php",
+			"?>\"",
+			"\"<?php",
+			"root + \"translate/datatable\"",
+			"root + \"assets/translations/datatables/\"+application.language+\".txt\"\nroot + \"translate/datatable\"",
+			"ObjectTemplate.modifiedByUser \"dkleader\"",
+			"new Reset_Password_Token",
+			"js/core/",
+			"core/js/",
+			"core/js",
+			"\",",
+			"\"",
+			"\"\\n\"js/",
+			"\"\"js/",
+			"\\n js/",
+			"application.readyCallback",
+			"application.settings",
+			"application",
+			"\"bootstrap/js/bootstrap",
+			"\",\\n\"",
+			"_Exists",
+			"_Convert_Properties_To_Database_Row",
+			"if (property_exists($this,\"_INTERNAL_CURRENT_USER\") && isset($this->_INTERNAL_CURRENT_USER) && !is_null($this->_INTERNAL_CURRENT_USER) && method_exists($Class,\"Set_Current_User\")) {",
+			"if (property_exists($this,\"_INTERNAL_CURRENT_USER\") && isset($this->_INTERNAL_CURRENT_USER) && !is_null($this->_INTERNAL_CURRENT_USER) && method_exists($Object,\"Set_Current_User\")) {",
+			"if (!is_null($this->_INTERNAL_CURRENT_USER) && method_exists($Class,\"Set_Current_User\")) {",
+			"if (!is_null($this->_INTERNAL_CURRENT_USER) && method_exists($Object,\"Set_Current_User\")) {",
+			"this",
+			"../images/",
+			"../images/chosen-sprite.png",
+			"../images/chosen-sprite.png\n\n```	",
+			"\n\n```	",
+			"\n\\n\n```	",
+			"\n\\n    \n```	",
+			"\n   \n```	",
+			"\n\\n    \n```	",
+			"\n\n```	",
+			"\n\n\\n		",
+			"/n	",
+			"\\n	",
+			"",
+			"App_Exists(",
+			"",
+			"_Convert_From_Object(",
+			"_Contains_Object(",
+			"_Secure_Export()",
+			"_Normal_Export(",
+			"_Load_From_Class(",
+			"_Link_Properties()",
+			"_Save_Linked_Properties()",
+			"_Force_Array()",
+			"',1,1)",
+			",1,1)",
+			",",
+			"$Data",
+			"$Class",
+			"_INTERNAL_DATABASE_NAME_CONVERT",
+			"$this->CI->Model_User->",
+			"model(\"Model_User\")",
+			"_CI",
+			"$Class",
+			"_CI",
+			"$_CI",
+			"_SetDataClass",
+			"$Group",
+			"_ClearDatabase",
+			"_SetDataArray",
+			"_RemoveUserData",
+			"_CheckData",
+			"_RemoveDatabaseData",
+			"_SetDataClass",
+			",$this->",
+			"$this->",
+			"$User->",
+			"self::CheckData(&2,&1);",
+			"",
+			");",
+			",",
+			"		self::CheckData(",
+			"\\nself::CheckData(",
+			"\\n		self::CheckData(",
+			"\\nself::CheckData(",
+			"self::CheckData(",
+			"0.69",
+			"provider.addBullets(",
+			"searchProviders",
+			"{size}",
+			"jqt/img/chevron.png",
+			"96"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "memory.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4643,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1103,
+								1103
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 232.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/gamelogic.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1530,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								494,
+								494
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 1203.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "less/style.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1204,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								523,
+								523
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 55.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/layout.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7436,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1786,
+								1786
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 6728.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.aaa_package_dev":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 88.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.phpdocumentor":
+	{
+		"height": 100.0
+	},
+	"output.sftp":
+	{
+		"height": 106.0
+	},
+	"pinned_build_system": "",
+	"project": "MiaAffaldssortering.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"for_v",
+				"application\\views\\forgot_password_view.php"
+			],
+			[
+				"for.js",
+				"assets\\js\\forgot.js"
+			],
+			[
+				"for.php",
+				"application\\controllers\\Forgot.php"
+			],
+			[
+				"sear.css",
+				"assets\\css\\search.css"
+			],
+			[
+				"sear.php",
+				"application\\controllers\\Search.php"
+			],
+			[
+				"sear.js",
+				"assets\\js\\search.js"
+			],
+			[
+				"user",
+				"application\\libraries\\User_control.php"
+			],
+			[
+				"se._",
+				"application\\views\\search_view.php"
+			],
+			[
+				"rote",
+				"application\\config\\routes.php"
+			],
+			[
+				"api",
+				"application\\controllers\\api\\Api_forgot.php"
+			],
+			[
+				"base_",
+				"application\\models\\Base_model.php"
+			],
+			[
+				"user_m",
+				"application\\models\\User_model.php"
+			],
+			[
+				"sty.cs",
+				"assets\\css\\style.css"
+			],
+			[
+				"abo.css",
+				"assets\\css\\about.css"
+			],
+			[
+				"user_",
+				"application\\libraries\\User_control.php"
+			],
+			[
+				"app",
+				"application\\language\\danish\\app_lang.php"
+			],
+			[
+				"user_c",
+				"application\\libraries\\User_control.php"
+			],
+			[
+				"base_m",
+				"application\\models\\Base_model.php"
+			],
+			[
+				"user_co",
+				"application\\libraries\\User_control.php"
+			],
+			[
+				"api_f",
+				"application\\controllers\\api\\Api_forgot.php"
+			],
+			[
+				"api_tea",
+				"application\\controllers\\api\\Api_teacher.php"
+			],
+			[
+				"tea_m",
+				"application\\models\\Teacher_model.php"
+			],
+			[
+				"pro.css",
+				"assets\\css\\profile.css"
+			],
+			[
+				"pro_la",
+				"application\\language\\danish\\profile_lang.php"
+			],
+			[
+				"pro_v",
+				"application\\views\\profile_teacher_view.php"
+			],
+			[
+				"pro.php",
+				"application\\controllers\\Profile.php"
+			],
+			[
+				"sty",
+				"assets\\css\\style.css"
+			],
+			[
+				"aut",
+				"application\\config\\autoload.php"
+			],
+			[
+				"tea_v",
+				"application\\views\\teacher_view.php"
+			],
+			[
+				"base",
+				"application\\models\\Base_model.php"
+			],
+			[
+				"api_reg",
+				"application\\controllers\\api\\Api_register.php"
+			],
+			[
+				"rotes",
+				"application\\config\\routes.php"
+			],
+			[
+				"ter_m",
+				"application\\models\\Teacher_model.php"
+			],
+			[
+				"logi_m",
+				"application\\models\\Login_model.php"
+			],
+			[
+				"api_re",
+				"application\\controllers\\api\\Api_register.php"
+			],
+			[
+				"log_se",
+				"application\\libraries\\auth\\Login_security.php"
+			],
+			[
+				"sty.css",
+				"assets\\css\\style.css"
+			],
+			[
+				"tea.css",
+				"assets\\css\\teacher.css"
+			],
+			[
+				"sea.css",
+				"assets\\css\\search.css"
+			],
+			[
+				"home.css",
+				"assets\\css\\home.css"
+			],
+			[
+				"login.js",
+				"assets\\js\\login.js"
+			],
+			[
+				"log.js",
+				"assets\\js\\login.js"
+			],
+			[
+				"te_v",
+				"teacher_view.old"
+			],
+			[
+				"api_t",
+				"application\\controllers\\api\\Api_teacher.php"
+			],
+			[
+				"for_view",
+				"application\\views\\forgot_password_view.php"
+			],
+			[
+				"se.cs",
+				"assets\\css\\search.css"
+			],
+			[
+				"tea.js",
+				"assets\\js\\teacher.js"
+			],
+			[
+				"jas",
+				"assets\\css\\jasny-bootstrap.css"
+			],
+			[
+				"tea.ph",
+				"application\\controllers\\Teacher.php"
+			],
+			[
+				"ho_v",
+				"application\\views\\home_view.php"
+			],
+			[
+				"sea_v",
+				"application\\views\\search_view.php"
+			],
+			[
+				"ser_v",
+				"application\\views\\search_view.php"
+			],
+			[
+				"tea_l",
+				"application\\language\\danish\\teacher_lang.php"
+			],
+			[
+				"se_v",
+				"application\\views\\search_view.php"
+			],
+			[
+				"sear_v",
+				"application\\views\\search_view.php"
+			],
+			[
+				"app_",
+				"application\\language\\danish\\app_lang.php"
+			],
+			[
+				"home_l",
+				"application\\language\\danish\\home_lang.php"
+			],
+			[
+				"home",
+				"application\\controllers\\Home.php"
+			],
+			[
+				"co.css",
+				"assets\\css\\contact.css"
+			],
+			[
+				"home_v",
+				"application\\views\\home_view.php"
+			],
+			[
+				"con",
+				"application\\config\\config.php"
+			],
+			[
+				"router",
+				"application\\core\\MY_Router.php"
+			],
+			[
+				"au",
+				"application\\config\\autoload.php"
+			],
+			[
+				"log.cs",
+				"assets\\css\\login.css"
+			],
+			[
+				"tea.php",
+				"application\\controllers\\Teacher.php"
+			],
+			[
+				"custom",
+				"assets\\bootstrap\\less\\custom.less"
+			],
+			[
+				"float",
+				"assets\\css\\floating-labels.css"
+			],
+			[
+				"float.",
+				"assets\\js\\floating-labels-teacher.js"
+			],
+			[
+				"teaph",
+				"application\\controllers\\Teacher.php"
+			],
+			[
+				"log_v",
+				"application\\views\\login_view.php"
+			],
+			[
+				"logi.js",
+				"assets\\js\\login.js"
+			],
+			[
+				"forgot.php",
+				"application\\controllers\\Forgot.php"
+			],
+			[
+				"log.php",
+				"application\\config\\login.php"
+			],
+			[
+				"lo.js",
+				"assets\\js\\login.js"
+			],
+			[
+				"log_la",
+				"application\\language\\danish\\login_lang.php"
+			],
+			[
+				"regi",
+				"application\\controllers\\api\\api_register.php"
+			],
+			[
+				"rou",
+				"application\\config\\routes.php"
+			],
+			[
+				"route",
+				"application\\config\\routes.php"
+			],
+			[
+				"app_l",
+				"application\\language\\danish\\app_lang.php"
+			],
+			[
+				"con.p",
+				"application\\config\\config.php"
+			],
+			[
+				"log_l",
+				"application\\language\\danish\\login_lang.php"
+			],
+			[
+				"slider.js",
+				"assets\\js\\slider.js"
+			],
+			[
+				"slider.cs",
+				"assets\\css\\slider.css"
+			],
+			[
+				"last",
+				"assets\\css\\lastonline.css"
+			],
+			[
+				"news_list_v",
+				"application\\views\\news_list_view.php"
+			],
+			[
+				"news_l",
+				"prototype\\news_list.html"
+			],
+			[
+				"home.",
+				"application\\controllers\\Home.php"
+			],
+			[
+				"news_m",
+				"application\\models\\news_model.php"
+			],
+			[
+				"sear",
+				"application\\controllers\\Search.php"
+			],
+			[
+				"ho",
+				"application\\controllers\\Home.php"
+			],
+			[
+				"hom.p",
+				"application\\controllers\\Home.php"
+			],
+			[
+				"sear.ph",
+				"application\\controllers\\Search.php"
+			],
+			[
+				"auth/log",
+				"application\\libraries\\auth\\login_security.php"
+			],
+			[
+				"styl",
+				"assets\\css\\style.css"
+			],
+			[
+				"homep",
+				"application\\controllers\\Home.php"
+			],
+			[
+				"teac.php",
+				"application\\controllers\\Teacher.php"
+			],
+			[
+				"routes",
+				"application\\config\\routes.php"
+			],
+			[
+				"mes.cs",
+				"assets\\css\\messages.css"
+			],
+			[
+				"teacher_l",
+				"application\\language\\danish\\teacher_lang.php"
+			],
+			[
+				"se.css",
+				"assets\\css\\search.css"
+			],
+			[
+				"na_v",
+				"application\\views\\templates\\nav_view.php"
+			],
+			[
+				"log_m",
+				"application\\models\\login_model.php"
+			],
+			[
+				"log.ph",
+				"application\\controllers\\Login.php"
+			],
+			[
+				"log",
+				"application\\controllers\\Login.php"
+			],
+			[
+				"api_l",
+				"application\\controllers\\api\\api_login.php"
+			],
+			[
+				"layouts",
+				"application\\views\\layouts\\messages.php"
+			],
+			[
+				"layouts/",
+				"application\\views\\layouts\\login.php"
+			],
+			[
+				"def",
+				"application\\views\\layouts\\default.php"
+			],
+			[
+				"con_v",
+				"application\\views\\contact_view.php"
+			],
+			[
+				"contac.js",
+				"assets\\js\\contact.js"
+			],
+			[
+				"cobnt",
+				"assets\\bootstrap\\node_modules\\npm-shrinkwrap\\node_modules\\npm\\test\\tap\\config-builtin.js"
+			],
+			[
+				"log.css",
+				"assets\\css\\login.css"
+			],
+			[
+				"login_v",
+				"application\\views\\login_view.php"
+			],
+			[
+				"cong.",
+				"application\\config\\config.php"
+			],
+			[
+				"auload",
+				"application\\config\\autoload.php"
+			],
+			[
+				"mess.php",
+				"application\\controllers\\Messages.php"
+			],
+			[
+				"mess.css",
+				"assets\\css\\messages.css"
+			],
+			[
+				"pro_t",
+				"application\\views\\profile_teacher_view.php"
+			],
+			[
+				"prof.css",
+				"assets\\css\\profile.css"
+			],
+			[
+				"",
+				".gitignore"
+			],
+			[
+				"nav_",
+				"application\\views\\templates\\nav_view.php"
+			],
+			[
+				"prof_t",
+				"application\\views\\profile_teacher_view.php"
+			],
+			[
+				"tea_la",
+				"application\\language\\danish\\teacher_lang.php"
+			],
+			[
+				"teach.js",
+				"assets\\js\\teacher.js"
+			],
+			[
+				"tea_lg",
+				"application\\language\\danish\\teacher_lang.php"
+			],
+			[
+				"tea.cs",
+				"assets\\css\\teacher.css"
+			],
+			[
+				"about.css",
+				"assets\\css\\about.css"
+			],
+			[
+				"pro.js",
+				"assets\\js\\profile.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 310.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

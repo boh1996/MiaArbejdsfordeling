@@ -1,0 +1,86 @@
+@imgPath: "../img/";
+
+.gallery-container {
+	background-color: black;
+	height: 200px;
+	border-bottom-right-radius: 15px;
+	border-bottom-left-radius: 15px;
+}
+
+footer {
+	position: absolute;
+	bottom: 0px;
+	width: 100%;
+
+	.footer-container {
+		height: 50px;
+		background-color: blue;
+		border-top-right-radius: 15px;
+		border-top-left-radius: 15px;
+	}
+
+	ul {
+		margin-top: 16px;
+	}
+
+	ul > li {
+		display: inline;
+		list-style-type: none;
+
+		color: white;
+		vertical-align: center;
+
+		text-align: center;
+	}
+
+	a {
+		color: white;
+	}
+
+	ul > li:not(:last-child) {
+		padding-right: 15px;
+	}
+}
+
+.cloud {
+	width: 104px;
+	height: 59px;
+	display: block;
+	background-size: cover;
+	background-image: url("@{imgPath}cloud-md.png");
+	cursor: pointer;
+
+	span {
+		text-align: center;
+		width: 100%;
+		display: inline-block;
+		
+		margin-top: 18px;
+	}
+
+	&:hover {
+		background-image: url("@{imgPath}cloud-md-hover.png");
+		font-weight: bold;
+	}
+
+	&:active, &.active {
+		background-image: url("@{imgPath}cloud-md-active.png");
+	}
+}
+
+.clouds {
+	clear: both;
+	width: 332px;
+	overflow:auto;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 10px;
+
+	i {
+		float: left;
+	}
+
+	.cloud:not(:last-child) {
+		margin-right: 10px;
+	}
+}
