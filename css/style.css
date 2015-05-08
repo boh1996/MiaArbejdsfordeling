@@ -90,6 +90,8 @@ footer ul > li:not(:last-child) {
 	position: absolute;
 	left: calc(25% - 50px);
 	top: 230px;
+
+	z-index: 1;
 }
 
 .carousel-indicators {
