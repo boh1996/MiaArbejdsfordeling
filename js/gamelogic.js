@@ -165,7 +165,7 @@ function createCards ( number, level ) {
 		selected.push(index);
 		
 		$("#cards").append('<li class="card image" data-value="' + window.cardTypes[index - 1].name + '"><span></span><span style="background: white url(img/cards/' + window.cardTypes[index - 1].file + ') no-repeat 50% 50%; background-size: contain;" class="back"></span></li>');
-		$("#cards").append('<li class="card" data-value="' + window.cardTypes[index - 1].name + '"><span></span><span class="back"><p>' + window.cardTypes[index - 1].text + '</p></span></li>');
+		$("#cards").append('<li class="card text" data-value="' + window.cardTypes[index - 1].name + '"><span></span><span class="back"><p>' + window.cardTypes[index - 1].text + '</p></span></li>');
 	};
 
 	$("#cards li").shuffle();
@@ -191,7 +191,7 @@ function checkCards () {
 	var found = 0;
 
 	$(window.cardTypes).each( function ( index, element ) {	
-		if( $('.card-selected[data-value="' + element.name + '"]').length > (window.selectCards - 1) && $('.image.card-selected[data-value="' + element.name + '"]').length > 0 ) {
+		if( $('.card-selected[data-value="' + element.name + '"]').length > (window.selectCards - 1) && $('.image.card-selected[data-value="' + element.name + '"]').length > 0 && $('.text.card-selected[data-value="' + element.name + '"]').length > 0 ) {
 			found = element.name;
 		}
 	});
